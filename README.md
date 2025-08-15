@@ -22,6 +22,6 @@ Apaixonado por tecnologia e programação, busco sempre aprimorar minhas habilid
 - `/img` → Imagens utilizadas no site
 
 ## 📧 Contato
-- **Email:** rafael.cestari@email.com
+- **Email:** cestari1502@gmail.com
 - **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
 - **GitHub:** [github.com/seuusuario](https://github.com/seuusuario)
