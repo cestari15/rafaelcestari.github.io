@@ -23,5 +23,5 @@ Apaixonado por tecnologia e programação, busco sempre aprimorar minhas habilid
 
 ## 📧 Contato
 - **Email:** cestari1502@gmail.com
-- **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
-- **GitHub:** [github.com/seuusuario](https://github.com/seuusuario)
+- **LinkedIn:** [Meu perfil Linkedin](https://www.linkedin.com/in/rafael-cestari-b68345347/)
+- **GitHub:** [Meu perfil no GitHub](https://github.com/cestari15)
