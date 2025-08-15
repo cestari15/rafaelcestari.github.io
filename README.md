@@ -1,13 +1,13 @@
 # Portfólio Profissional - Rafael Cestari
 
-Este repositório contém o código-fonte do meu portfólio online, desenvolvido para apresentar minhas habilidades, experiências e projetos na área de **Análise e Desenvolvimento de Sistemas** e **Investigação Digital**.
+Este repositório contém o código-fonte do meu portfólio online, desenvolvido para apresentar minhas habilidades, experiências e projetos na área de **desenvolvimento de software**.
 
 ## 🔗 Acesse meu portfólio
 [👉 www.cestari15.github.io](https://cestari15.github.io/rafaelcestari.github.io/)
 
 ## 📌 Sobre mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou me preparando para atuar como **Perito Criminal Federal na área de Informática**.  
-Apaixonado por tecnologia, programação e investigação digital, busco sempre aprimorar minhas habilidades e aprender novas ferramentas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e pretendo seguir carreira como **desenvolvedor de software**.  
+Apaixonado por tecnologia e programação, busco sempre aprimorar minhas habilidades e aprender novas ferramentas.
 
 ## 🛠️ Tecnologias utilizadas
 - HTML5
